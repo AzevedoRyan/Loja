@@ -1,0 +1,11 @@
+
+ 
+  int cod[] = {110, 112, 130, 114, 119, 150, 160, 164};
+  char tipo[] = {'r', 'g', 'r', 'r', 'c', 'g', 'c', 'r'};
+  double aluguelBase[] = {400, 800, 600, 300, 1500, 1100, 1800, 900};
+  int status[] = {1, 1, 2, 1, 2, 1, 1, 2};
+
+  for(int i=0; i<cod.length; i++){
+    System.out.printf("%10d %10c %10.2f %10d\n", cod[i], tipo[i], aluguelBase[i], status[i]);
+  }
+    

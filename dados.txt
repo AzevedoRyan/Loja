@@ -1,0 +1,11 @@
+Vendedor Categoria ValorVendas
+Rui 3 20000,00
+Ivo 1 18000,00
+Iumi 2 26000,00
+Nei 1 70000,00
+Susi 2 25000,00
+Alan 1 10000,00
+Ian 1 15000,00
+Bia 2 29000,00
+Ana 3 40000,00
+Gil 3 20000,00
